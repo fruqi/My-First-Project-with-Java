@@ -1,0 +1,20 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/My First Project with Java/*
+!/My First Project with Java/task/
+/My First Project with Java/task/*
+!/My First Project with Java/task/src
+
+# Project exclude paths
+/Topics/Reading user's input with Scanner/Summing apples and oranges from user input/out/
+/Topics/Reading user's input with Scanner/Summing apples and oranges from user input/out/production/classes/
